@@ -1,9 +1,9 @@
 
-## A linear search scans one item at a time, without jumping to any item .
-1. The worst case complexity is  O(n), sometimes known an O(n) search
+## A linear search scans one item at a time, without jumping to any item.
+1. The worst case complexity is  O(n)
 2. Time taken to search elements keep increasing as the number of elements are increased.
 
-## A binary search however, cut down your search to half as soon as you find middle of a sorted list.
+## A binary search cut down the search to half as soon as find middle of a sorted list found.
 1. The middle element is looked to check if it is greater than or less than the value to be searched.
 2. Accordingly, search is done to either half of the given list
 
